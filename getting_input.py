@@ -1,0 +1,6 @@
+a=float(input("enter the number 1:"))
+b=float(input("enter the number 2:"))
+c=max(a,b)
+d=min(a,b)
+print(str(d) +"is greater"+ str(c))
+print(a+b)
